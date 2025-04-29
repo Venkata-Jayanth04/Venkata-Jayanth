@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkata-jayanth04&label=Profile%20views&color=0e75b6&style=flat" alt="Venkata-Jayanth04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Venkata-Jayanth04" alt="Venkata-Jayanth04" /></a> </p>
+<p align="left"> <a href="https://github.com/Venkata-Jayanth04/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Venkata-Jayanth04" alt="Venkata-Jayanth04" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@venkata_jay04" target="blank"><img src="https://img.shields.io/twitter/follow/@venkata_jay04?logo=twitter&style=for-the-badge" alt="@venkata_jay04" /></a> </p>
 
