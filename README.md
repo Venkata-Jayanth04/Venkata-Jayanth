@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kocherla Venkata Jayanth</h1>
-<h3 align="center">A passionate Machine Learning Engineer | AI & Deep Learning Enthusiast</h3>
+# Hi 👋, I'm Kocherla Venkata Jayanth
+### A passionate Machine Learning Engineer | AI & Deep Learning Enthusiast
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Venkata-Jayanth04&label=Profile%20views&color=0e75b6&style=flat" alt="Venkata-Jayanth04" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Venkata-Jayanth04&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Venkata-Jayanth04&theme=onedark" alt="GitHub Trophies" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Venkata-Jayanth04&theme=onedark)](https://github.com/Venkata-Jayanth04/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/@venkata_jay04" target="blank"><img src="https://img.shields.io/twitter/follow/@venkata_jay04?logo=twitter&style=for-the-badge" alt="@venkata_jay04" /></a> </p>
 
