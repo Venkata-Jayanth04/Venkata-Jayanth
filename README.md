@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kocherla. Venkata Jayanth</h1>
 <h3 align="center">A passionate Machine-Learning Engineer| AI & Deep Learning Enthusiastic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkata-jayanth04&label=Profile%20views&color=0e75b6&style=flat" alt="venkata-jayanth04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkata-jayanth04&label=Profile%20views&color=0e75b6&style=flat" alt="Venkata-Jayanth04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkata-jayanth04" alt="venkata-jayanth04" /></a> </p>
 
