@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkata-jayanth04&show_icons=true&locale=en&layout=compact" alt="venkata-jayanth04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkata-jayanth04&show_icons=true&locale=en" alt="venkata-jayanth04" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkata-jayanth04&" alt="venkata-jayanth04" /></p>
