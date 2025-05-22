@@ -5,15 +5,9 @@
 
 <h3 align="center">A passionate Machine Learning Engineer | AI & Deep Learning Enthusiast</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Venkata-Jayanth04&label=Profile%20views&color=0e75b6&style=flat" alt="Venkata-Jayanth04" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Venkata-Jayanth04&theme=onedark" alt="GitHub Trophies" />
 </p>
-
-<p align="left"> <a href="https://twitter.com/@venkata_jay04" target="blank"><img src="https://img.shields.io/twitter/follow/@venkata_jay04?logo=twitter&style=for-the-badge" alt="@venkata_jay04" /></a> </p>
 
 - 🌱 I’m currently learning **AI, Deep Learning**
 
