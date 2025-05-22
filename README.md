@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-7314-6230-a1ed-d847a7c883b4/raw?se=2025-05-22T11%3A31%3A11Z&sp=r&sv=2024-08-04&sr=b&scid=f85a5c19-fa6d-5bd6-a7cf-ff270809b8a5&skoid=ea0c7534-f237-4ccd-b7ea-766c4ed977ad&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-21T20%3A19%3A13Z&ske=2025-05-22T20%3A19%3A13Z&sks=b&skv=2024-08-04&sig=2NIen8AcP0g17elB2dZU6gYQYzGgcQ3UUwMoSf9SfU4%3D" width="30%" alt="Banner Image" />
+  <img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-7314-6230-a1ed-d847a7c883b4/raw?se=2025-05-22T11%3A31%3A11Z&sp=r&sv=2024-08-04&sr=b&scid=f85a5c19-fa6d-5bd6-a7cf-ff270809b8a5&skoid=ea0c7534-f237-4ccd-b7ea-766c4ed977ad&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-21T20%3A19%3A13Z&ske=2025-05-22T20%3A19%3A13Z&sks=b&skv=2024-08-04&sig=2NIen8AcP0g17elB2dZU6gYQYzGgcQ3UUwMoSf9SfU4%3D" width="25%" alt="Banner Image" />
 </p>
 <h3 align="center">Hey there, I'm Venkata Jayanth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
