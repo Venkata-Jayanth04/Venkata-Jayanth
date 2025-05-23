@@ -15,9 +15,9 @@
 <a href="https://linkedin.com/in/venkata-jayanth-93804a302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkata-jayanth-93804a302" height="30" width="40" /></a>
 <a href="https://kaggle.com/venkata_jayanth04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="venkata_jayanth04" height="30" width="40" /></a>
 <a href="https://instagram.com/venkata_jayanth04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venkata_jayanth04" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aloft_life_65" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aloft_life_65" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@venkatajayanth_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@venkatajayanth_3" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/venkata_jayanth04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venkata_jayanth04" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aloft_life_65" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aloft_life_65" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
